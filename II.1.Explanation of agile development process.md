@@ -1,6 +1,6 @@
 ---
 title: Explanation of agile development process
 layout: default
-parent: strona-rodzic
+parent: II.Agile Development Process.md
 nav_order: 1
 ---
