@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Developing Effective Technical Communication Strategies for Agile Development Teams
