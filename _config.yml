@@ -5,6 +5,6 @@ theme: just-the-docs
 url: https://Nataziet.github.io/Developing-Effective-Technical-Communication-Strategies-for-Agile-Development-Teams
 
 
-color_scheme: dark
+color_scheme: nil
 
-logo: "/Developing Effective Technical Communication Strategies for Agile Development Teams\Developing-Effective-Technical-Communication-Strategies-for-Agile-Development-Teams\images\TechWR_Icon.png"
+logo: "/assets/images/just-the-docs.png"
