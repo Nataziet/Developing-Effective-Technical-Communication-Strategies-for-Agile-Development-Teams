@@ -7,7 +7,7 @@ nav_order: 1
 
 # **Overview of agile development methodologies**
 
-|= Agile development strategies are iterative, collaborative software creation methods that focus on adaptation, flexibility, and continual improvement. Rapid feedback loops, cross-functional team cooperation, and incremental software delivery characterize them. Agile approaches encourage a team-based, flexible approach that enables teams to adjust as requirements and client feedback change throughout the development process.
+Agile development strategies are iterative, collaborative software creation methods that focus on adaptation, flexibility, and continual improvement. Rapid feedback loops, cross-functional team cooperation, and incremental software delivery characterize them. Agile approaches encourage a team-based, flexible approach that enables teams to adjust as requirements and client feedback change throughout the development process.
 
 Some of the most popular Agile methodologies include Scrum, Kanban, Lean, and Extreme Programming (XP). 
 
@@ -22,4 +22,4 @@ In software development, Lean principles are applied to streamline processes, re
 
 * **Extreme Programming (XP)** is an agile software development approach that strongly relies on frequent feedback loops and close team cooperation to create high-quality software. Iterative and adaptable, XP concentrates on client satisfaction and the capacity to adjust to shifting demands.
 Developers collaborate closely with customers, testers, and other stakeholders throughout the development process under the XP methodology, which places a strong focus on communication and teamwork. The approach encourages the implementation of minimal, clean code and supports continuous integration and testing together with simple, frequent releases.
-One of the key principles of XP is "embrace change", recognizing that requirements can evolve and change over time, and that software should be able to accommodate these changes. =|
+One of the key principles of XP is "embrace change", recognizing that requirements can evolve and change over time, and that software should be able to accommodate these changes.
